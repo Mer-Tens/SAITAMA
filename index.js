@@ -1,11 +1,10 @@
-//base by DGXeon (Xeon Bot Inc.)
+//base by Maxie (HAIL ME.)
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: http://www.youtube.com/@techgod143
-//Instagram: @techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//Instagram: @am_evi0122
+//Telegram: t.me/Ma_Xie
+//GitHub: @Mer_Tens
+//WhatsApp: +254799355427
+//want more free bot scripts? subscribe to my telegram channel: https://web.telegram.org/k/#@figa93
 
 const {
    spawn
