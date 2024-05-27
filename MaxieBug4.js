@@ -4,7 +4,7 @@
 //Telegram: t.me/Ma_Xie
 //GitHub: @Mer_Tens
 //WhatsApp: +254799355427
-//want more free bot scripts? subscribe to my youtube channel: https://web.telegram.org/k/#@figa93
+//want more free bot scripts? subscribe to my telegram channel: https://web.telegram.org/k/#@figa93
 
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
