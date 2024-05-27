@@ -164,7 +164,7 @@ const subscribe_dgxeon = {
 },
 message: {
 "listResponseMessage": {
-title: `Xeon's ur father`
+title: `ACKNOWLEDGE ME`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
